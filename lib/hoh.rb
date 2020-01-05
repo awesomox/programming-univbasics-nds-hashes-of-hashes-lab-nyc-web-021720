@@ -24,13 +24,12 @@ def naming_system
                   :label=>"Species", 
                   :sub_category=> {}
                   }
-                }
               }
             }
           }
+        }
       }
-    }
-  }
+  }  
   p naming_system
 end
 
