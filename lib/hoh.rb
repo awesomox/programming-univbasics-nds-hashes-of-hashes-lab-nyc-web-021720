@@ -9,7 +9,6 @@ PORTION_3 = {:sub_category=>{:label=>"Family", :sub_category=>{:label=>"Genus"}}
 PORTION_4 = {:sub_category=>{:label=>"Species", :sub_category=>{}}}
 def naming_system
   naming_system = {
-    :sub_category=> {
       :label=>"Kingdom", 
       :sub_category=> {
         :label=>"Phylum", 
